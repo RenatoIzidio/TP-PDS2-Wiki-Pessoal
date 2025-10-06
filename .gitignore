@@ -1,0 +1,20 @@
+# Pasta de compilação do CMake
+build/
+
+# Arquivos de log e temporários
+*.log
+*~
+
+# Arquivos gerados pelo compilador
+*.o
+*.a
+*.so
+
+# Executável final
+WikiPessoal
+
+# Configurações de IDEs e editores
+.vscode/
+*.user
+*.pro.user*
+*.creator*
